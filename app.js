@@ -20,4 +20,5 @@ function square(num) {
   });
 }
 console.log("git test");
+console.log("hello from new branch");
 console.log(square(9));
