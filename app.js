@@ -19,5 +19,5 @@ function square(num) {
     }, 2000);
   });
 }
-
+console.log("git test");
 console.log(square(9));
